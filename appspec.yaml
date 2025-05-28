@@ -7,3 +7,4 @@ Resources:
         LoadBalancerInfo:
           ContainerName: "webapp"
           ContainerPort: 80
+          image: 039973338291.dkr.ecr.us-east-1.amazonaws.com/devops-workshop-app:latest
